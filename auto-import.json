@@ -283,6 +283,8 @@
     "watchThrottled": true,
     "watchTriggerable": true,
     "watchWithFilter": true,
-    "whenever": true
+    "whenever": true,
+    "useMessages": true,
+    "message": true
   }
 }

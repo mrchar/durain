@@ -1,3 +1,7 @@
 <template>
-  <h1 class="text-3xl font-bold underline">Hello world!</h1>
+  <div class="h-screen w-screen overflow-hidden">
+    <DefaultLayout>
+      <MessageList />
+    </DefaultLayout>
+  </div>
 </template>
