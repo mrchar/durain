@@ -18,6 +18,8 @@
     "daisyui": "^4.12.10",
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.4",
+    "unplugin-auto-import": "^0.17.6",
+    "unplugin-vue-components": "^0.27.2",
     "vite": "^5.3.1"
   },
   "packageManager": "yarn@1.22.22+sha1.ac34549e6aa8e7ead463a7407e1c7390f61a6610"
