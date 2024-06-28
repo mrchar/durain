@@ -10,6 +10,10 @@ export default defineConfig({
     AutoImport({
       imports: ["vue", "@vueuse/core"],
       dirs: ["src/composables"],
+      eslintrc: {
+        enabled: true,
+        filepath: "./auto-import.json",
+      },
     }),
     Components({ dirs: ["src/components", "src/layouts"] }),
   ],
