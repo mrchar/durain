@@ -1,5 +1,3 @@
-# Vue 3 + Vite
+# 榴莲 Durain
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+如果你经常被打断工作，或者记不住接下来要干什么工作，不如像计算机一样工作，将所有的工作放入栈中，完成一件工作，就将他从栈中弹出，当一天的工作结束之后，要么清理干净，要么重新整理工作的顺序。
